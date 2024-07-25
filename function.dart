@@ -1,6 +1,5 @@
 void main() {
   print(perkalian(2, 5));
-  print(pembagian(10, 2));
 }
 
 int perkalian(number1, number2) {
